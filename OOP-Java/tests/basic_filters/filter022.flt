@@ -1,0 +1,8 @@
+FILTER
+prefix#file
+ORDER
+abs
+FILTER
+suffix#.txt
+ORDER
+RRsize

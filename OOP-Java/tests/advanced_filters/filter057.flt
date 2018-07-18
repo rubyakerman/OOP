@@ -1,0 +1,11 @@
+FILTER
+prefix#file
+ORDER
+type
+FILTER
+suffix#.txt
+ORDER
+FILTER
+executable#NO
+ORDER
+type#REVERSE

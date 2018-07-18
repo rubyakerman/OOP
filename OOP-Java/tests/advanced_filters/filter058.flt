@@ -1,0 +1,11 @@
+FILTER
+prefix#a
+ORDER
+FILTER
+suffix#.txt
+ORDER
+file
+FILTER
+writable#YES
+ORDER
+size

@@ -1,0 +1,15 @@
+FILTER
+prefix#file 
+ORDER
+FILTER
+suffix#a.txt
+ORDER
+file
+FILTER
+executable#YES
+ORDER
+size#REVERSE
+FILTER
+executable#NO
+ORDER
+abs#REVERSE
